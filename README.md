@@ -3,6 +3,10 @@
 
 作者：李颜平，吴刚
 
+code文件夹为代码
+
 code/Heart Disease Data Set: Heart Disease数据集上运行代码
 
 code文件夹下剩余文件中，BestPre.py: 根据算法预测
+
+results文件夹为实验结果
